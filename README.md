@@ -8,6 +8,6 @@ This project provides the link to future projects for the E-15 course. Besides t
 Demo information
 =================
 Not required for Project 1.
-Plugin/Libraries/Packages/Ourside Code used
+Plugin/Libraries/Packages/Outside Code used
 ===========================================
 Bootstrap Carousel Components
