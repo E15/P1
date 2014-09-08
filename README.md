@@ -4,10 +4,10 @@ Live URL of the project
 ========================
 Description of the project (2-3+ sentences)
 ===========================================
+This project provides the link to future projects for the E-15 course. Besides the required one pager, I have included the common Contact and Home Pages. The required page for assignment is in about.html, which is accessible through the homepage.
 Demo information
 =================
-If you attend your section to do an in-person demo, make a note of this. If you opt to do the Jing screencast demo, include the link here.
-Any details the instructor or TA needs to know, for example, test credentials.
+Not required for Project 1.
 Plugin/Libraries/Packages/Ourside Code used
 ===========================================
-A list of any plugins, libraries, packages or outside code used in the project. See Student Responsibilities for more details on avoiding code plagiarism.
+Bootstrap Carousel Components
